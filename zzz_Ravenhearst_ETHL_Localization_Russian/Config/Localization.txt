@@ -125,4 +125,4 @@ perkHammererRank9Desc,progression,Perk,Молотобоец IX
 perkHammererRank9LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 18%.
 perkHammererRank10Desc,progression,Perk,Мастер молотобоец
 perkHammererRank10LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 25%.
-<--test--/>
+
