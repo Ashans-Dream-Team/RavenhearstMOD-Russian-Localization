@@ -11,32 +11,32 @@ quest_BasicSurvival6d,Основы Выживания 13/14
 quest_BasicSurvival1a_subtitle,Соберите бревна и древесину.
 quest_BasicSurvival1a_description,Древесина - важный ингредиент который используется в создании предметов, а так же создания строительных материалов. Чтобы собрать дрова, атакуйте дерево. Вы получите бревна. Бревна можно переработать в дерево, которое имеет множество применений. Так же дерево можно переработать в палки и доски. Вы также можете собирать палки, атакуя небольшие кусты в мире.
 quest_BasicSurvival1c_subtitle,Получите лист выбора "Класса".
-quest_BasicSurvival1c_description,Ваш лист выбора "Класса" чрезвычайно важен для защиты от нежити. Открытие стартового набора дает предоставит Вам основные предметы для выживания. Прочтите заметку о стартовом наборе и выберете свой класс. Используйте Персональный верстак, чтобы создать страничку класса и прочитать ее и получить навыки и оружие.
+quest_BasicSurvival1c_description,Ваш лист выбора "Класса" чрезвычайно важен защиты от нежити. Открытие стартового набора дает предоставит Вам основные предметы выживания. Прочтите заметку о стартовом наборе и выберете свой класс. Используйте Персональный верстак, чтобы создать страничку класса и прочитать ее и получить навыки и оружие.
 quest_BasicSurvival2a_subtitle,Создайте Каменную Кирку.
 palletOfWood,blocks,Block,Паллета с Деревом.
-quest_BasicSurvival2a_description,Каменный топор отлично подходит для разрушения деревянных дверей и рубки деревьев, но он не сломать что либо из камня или металла. Для этого вам понадобится каменная кирка. Используя ее, вы можете добывать базовые стартовые ресурсы из валунов. По мере того, как вы получаете доступ к более многоуровневым киркам, вы обнаружите, что можете добывать ресурсы эффективнее.
+quest_BasicSurvival2a_description,Каменный топор отлично подходит разрушения деревянных дверей и рубки деревьев, но он не сломать что либо из камня или металла. этого вам понадобится каменная кирка. Используя ее, вы можете добывать базовые стартовые ресурсы из валунов. По мере того, как вы получаете доступ к более многоуровневым киркам, вы обнаружите, что можете добывать ресурсы эффективнее.
 quest_BasicSurvival2b_subtitle,Соберите немного руды
-quest_BasicSurvival2b_description,Добудьте каменной киркой ресурсы из валуна. Это таст вам немного руды. Возможно, вам придется ударить несколько раз, а может больше. Другие кирки дадут вам больше драгоценного металла. Подземная добыча даст такие ресурсы, как известняк для цемента.
+quest_BasicSurvival2b_description,Добудьте каменной киркой ресурсы из валуна. Это таст вам немного руды. Возможно, вам придется ударить несколько раз, а может больше. Другие кирки дадут вам больше драгоценного металла. Подземная добыча даст такие ресурсы, как известняк цемента.
 quest_BasicSurvival6a_subtitle,Найдите хранилище
-quest_BasicSurvival6a_description,«В мусоре, который вы видите на улицах, можно найти не только шпагат, но и использовать его для хранения ваших вещей. Из 3-х мешков для мусора вы можете сделать больший мусорный мешок для хранения вещей внутри. Найдите 3 мешка и создайте мусорный мешок для хранения. "
+quest_BasicSurvival6a_description,«В мусоре, который вы видите на улицах, можно найти не только шпагат, но и использовать его хранения ваших вещей. Из 3-х мешков мусора вы можете сделать больший мусорный мешок хранения вещей внутри. Найдите 3 мешка и создайте мусорный мешок хранения. "
 quest_BasicSurvival1b_subtitle,Сделайте Персональный Верстак.
 quest_BasicSurvival1b_description,Персональный верстак - самый важный предмет в этом мире. В нем вы можете создать множество предметов, которые нельзя скрафтить в рюкзаке. Ломайте кусты и траву, чтобы собрать палки и волокна, далее скрафтите веревки, собирите верстак и установите его.
-quest_BasicSurvival7b_description,"Добудьте дерево и изготовьте деревянный каркас из основной группы в окне изготовления. Разместите деревянный каркас в мире. Для этого возьмите его в руки и нажмите клавишу дополнительного действия. Если у вас в инвентаре осталась древесина, улучшите его, используя каменный топор и клавишу дополнительного действия."
+quest_BasicSurvival7b_description,"Добудьте дерево и изготовьте деревянный каркас из основной группы в окне изготовления. Разместите деревянный каркас в мире. этого возьмите его в руки и нажмите клавишу дополнительного действия. Если у вас в инвентаре осталась древесина, улучшите его, используя каменный топор и клавишу дополнительного действия."
 quest_BasicSurvival6d_subtitle,Вылечите заражение.
-quest_BasicSurvival6d_description,«Один из ключей к выживанию - это лечение инфекций. Самый простой способ сделать это - собрать соты с медом, уничтожив пни. Найдите один или два пня и соберите 3 соты с медом. Используйте предоставленную банку, чтобы приготовить немного меда, и держитесь за них. это для дальнейшего использования. "
+quest_BasicSurvival6d_description,«Один из ключей к выживанию - это лечение инфекций. Самый простой способ сделать это - собрать соты с медом, уничтожив пни. Найдите один или два пня и соберите 3 соты с медом. Используйте предоставленную банку, чтобы приготовить немного меда, и держитесь за них. это дальнейшего использования. "
 
-<--Key,Source,Context,English ( zz_PerkMastery_Localization) --/>
+<--Key,Source,Context,English ( zz_PerkМастерy_Localization) --/>
 
-attmastery,progression,Attribute,Джекс на все руки
-attMastery,progression,Attribute,Джекс на все руки
-attMasteryDesc,progression,Attribute,Мастер изящного искусства быть зверем, как Джекс!.
-attMasteryName,progression,Attribute,Аттрибут: Джекс на все руки
+attМастерy,progression,Attribute,Джекс на все руки
+attМастерy,progression,Attribute,Джекс на все руки
+attМастерyDesc,progression,Attribute,Мастер изящного искусства быть зверем, как Джекс!.
+attМастерyName,progression,Attribute,Аттрибут: Джекс на все руки
 skillJackOfAllName,progression,Perk,Джекс на все руки
-skillMeleeMasteryName,progression,Perk,Мастерство ближнего боя
-skillRangedMasteryName,progression,Perk,Мастерство дальнего боя
-skillJackOfAllDesc,progression,Perk,Перки для всего!
-skillMeleeMasteryDesc,progression,Perk,Перки для рукопашного боя!
-skillRangedMasteryDesc,progression,Perk,Перки для дальнего боя!
+skillMeleeМастерyName,progression,Perk,Мастерство ближнего боя
+skillRangedМастерyName,progression,Perk,Мастерство дальнего боя
+skillJackOfAllDesc,progression,Perk,Перки всего!
+skillMeleeМастерyDesc,progression,Perk,Перки рукопашного боя!
+skillRangedМастерyDesc,progression,Perk,Перки дальнего боя!
 perkSprinterName,progression,Perk,Бегун
 perkSprinterDesc,progression,Perk,Вы овладеваете искусством бега от / до любого звука, который слышите. Ваша скорость бега увеличивается.
 perkSprinterRank1Desc,progression,Perk,Бегун I
@@ -126,3 +126,446 @@ perkHammererRank9LongDesc,progression,Perk,Увеличение скорости
 perkHammererRank10Desc,progression,Perk,Мастер молотобоец
 perkHammererRank10LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 25%.
 
+<--Key,Source,Context,English (zJax_ActionSkills_Localization.txt)--/>
+
+perkASMiningToolsDesc,progression,Perk,"+1% Блокировка урона и увеличения ресурсов\n+0,3% снижения выносливости\nза уровень"
+perkASConstructionToolsDesc,progression,Perk,"+1% Блокировка урона и увеличения ресурсов\n+0,3% снижения выносливости\nза уровень"
+perkASBluntDesc,progression,Perk,"+0.3% Снижение урона и выносливости\nза уровень\nОткрывает рецепты Ударных (тупых) предметов на уровнях. 20, 40, 60, 80 и 100"
+perkASSledgehammersDesc,progression,Perk,"+0.3% Снижение урона и выносливости\nза уровень\nОткрывает рецепты Кувалды на уровнях 20, 40, 60, 80 и 100"
+perkASBladedDesc,progression,Perk,"+0.3% Снижение урона и выносливости\nза уровень\nОткрывает рецепты Лезвий на уровнях 20, 40, 60, 80 и 100"
+perkASElectricDesc,progression,Perk,"+0.3% Снижение урона и выносливости\nза уровень\nРазблокирует рецепты Электрического владения на уровнеs 20, 60 и 100"
+perkASJavelinDesc,progression,Perk,"+0.3% Снижение урона и выносливости\nза уровень\nРазблокирует рецепты Джавелина на уровнеs 20, 60 и 100"
+perkASArcheryDesc,progression,Perk,"+0.3% Урон\n+0.5% Точность и скорость перезарядки\nза уровень\nОткрывает рецепты Луков на уровнях 20, 40, 60, 80 и 100"
+perkASPistolsDesc,progression,Perk,"+0.3% Урон\n+0.5% Точность, скорость перезарядки и уменьшение отдачи\nза уровень\nОткрывает рецепты Пистолета на уровнях 20, 40, 60, 80 и 100"
+perkASShotgunsDesc,progression,Perk,"+0.3% Урон\n+0.5% Точность, скорость перезарядки и уменьшение отдачи\nза уровень\nОткрывает рецепты Дробовика на уровнях 20, 40, 60, 80 и 100"
+perkASRiflesDesc,progression,Perk,"+0.3% Урон\n+0.5% Точность, скорость перезарядки и уменьшение отдачи\nза уровень\nОткрывает рецепты Винтовок на уровнях 20, 40, 60, 80 и 100"
+perkASAutomaticsDesc,progression,Perk,"+0.3% Урон\n+0.5% Точность, скорость перезарядки и уменьшение отдачи\nза уровень\nОткрывает рецепты Автоматики на уровнях 20, 40, 60, 80 и 100"
+perkASBrawlerDesc,progression,Perk,"+0.3% Снижение урона и выносливости\nза уровень\nОткрывает рецепты Кулачного владения на уровнях 20, 60 и 100"
+perkASTurretDesc,progression,Perk,"+0.3% Снижение урона и выносливости\nза уровень\nОткрывает рецепты Турелей на уровнях 20, 40, 60, 80 и 100"
+attactionskills,progression,Attribute,Навыки действий
+attActionSkillsDesc,progression,Attribute,Уровень навыков действий по мере их использования.
+attActionSkillsName,progression,Attribute,Атрибут: Навыки действия.
+ttMToolsLevelUp,UI,Tooltip,"Поздравляю ШАХТЕР! Твой навык работы с горными инструментами повысился!"
+ttArcheryLevelUp,UI,Tooltip,"Поздравляю ЛАГОВАЗ! Твой навык стрельбы из лука повысился!"
+ttAutomaticsLevelUp,UI,Tooltip,"Поздравляю ЧУДО-ЭЛЕКТРИК! Твой навык в автоматике повысился!"
+ttBladedLevelUp,UI,Tooltip,"Поздравляю РУБАКА! Твой навык владения клинками повысился!"
+ttPistolLevelUp,UI,Tooltip,"Поздравляю ГРЯЗНЫЙ ГАРРИ! Твой навык обращения с пистолетами повысился!"
+ttShotgunLevelUp,UI,Tooltip,"Поздравляю МАСТЕР БУМ-ПАЛКИ! Твой навык обращения с Дробовиками повысился!"
+ttCToolsLevelUp,UI,Tooltip,"Поздравляю ДЖПМШУТ! Твой навык в строительных инструментах повысился!"
+ttRiflesLevelUp,UI,Tooltip,"Поздравляю МЕТКИЙ ГЛАЗ! Твой навык обращения с винтовками повысился!"
+ttElectricLevelUp,UI,Tooltip,"Поздравляю ПЕРВОБЫТНАЯ ОБЕЗЬЯНА! Твой умение обращаться с дубинками повысилось!"
+ttTurretLevelUp,UI,Tooltip,"Поздравляю ЗАЩИТНИК! Твой навык в турелях увеличился!"
+ttJavelinLevelUp,UI,Tooltip,"Поздравляю ЧУВАК С НЕПОНЯТНЫМ ОРУЖИЕМ! Твой навык владения джавелином повысился!"
+ttBrawlerLevelUp,UI,Tooltip,"Поздравляю ИСТИРИЧКА! Твой навык скандалиста повысился!"
+ttBluntLevelUp,UI,Tooltip,"Поздравляю ДРОБИТЕЛЬ ЧЕРЕПОВ! Твой навык использования дробящего владения повысился!"
+ttSledgehammersLevelUp,UI,Tooltip,"Поздравляю ТОВАРИЩ СЛЕСАРЬ! Ваш навык владения кувалдой повысился!"
+ttAthleticsLevelUp,UI,Tooltip,"Поздравляю ТОВАРИЩ ОБОСРАВШИЙСЯ! Ты бегаешь еще быстрее от зомби (Твой навык в легкой атлетике повысился)!"
+
+perkMiningToolCraftingName,progression,Perk,"Изготовление горного инструмента"
+perkMiningToolCraftingDesc,progression,Perk,"Узнайте, как создавать инструменты добычи полезных ископаемых."
+reqASMiningToolsLevel10,progression,Perk,"Требуется уровень горных инструментов 10"
+reqASMiningToolsLevel20,progression,Perk,"Требуется уровень горных инструментов 20"
+reqASMiningToolsLevel30,progression,Perk,"Требуется уровень горных инструментов 30"
+reqASMiningToolsLevel40,progression,Perk,"Требуется уровень горных инструментов 40"
+reqASMiningToolsLevel50,progression,Perk,"Требуется уровень горных инструментов 50"
+reqASMiningToolsLevel60,progression,Perk,"Требуется уровень горных инструментов 60"
+reqASMiningToolsLevel70,progression,Perk,"Требуется уровень горных инструментов 70"
+reqASMiningToolsLevel80,progression,Perk,"Требуется уровень горных инструментовl 80"
+reqASMiningToolsLevel90,progression,Perk,"Требуется уровень горных инструментов 90"
+reqASMiningToolsLevel100,progression,Perk,"Требуется уровень горных инструментов 100"
+perkMiningToolCraftingRank1Desc,progression,Perk,"Инструменты металлалома (из говна и палок)"
+perkMiningToolCraftingRank1LongDesc,progression,Perk,"Разблокирует кирку и лопату металлолома."
+perkMiningToolCraftingRank2Desc,progression,Perk,"Железные инструменты"
+perkMiningToolCraftingRank2LongDesc,progression,Perk,"Открывает железную кирку и железную лопату."
+perkMiningToolCraftingRank3Desc,progression,Perk,"Стальные инструменты"
+perkMiningToolCraftingRank3LongDesc,progression,Perk,"Разблокирует стальную кирку и стальную лопату."
+perkMiningToolCraftingRank4Desc,progression,Perk,"Электроинструменты"
+perkMiningToolCraftingRank4LongDesc,progression,Perk,"Разблокирует шнек"
+perkMiningToolCraftingRank5Desc,progression,Perk,"Продвинутые инструменты"
+perkMiningToolCraftingRank5LongDesc,progression,Perk,"Разблокирует алюминиевую кирку."
+
+reqASConstructionMiningToolsLevel10,progression,Perk,"Требуется уровень строительных и горных инструментов 10"
+reqASConstructionMiningToolsLevel20,progression,Perk,"Требуется уровень строительных и горных инструментов 20"
+reqASConstructionMiningToolsLevel30,progression,Perk,"Требуется уровень строительных и горных инструментов 30"
+reqASConstructionMiningToolsLevel40,progression,Perk,"Требуется уровень строительных и горных инструментов 40"
+reqASConstructionMiningToolsLevel50,progression,Perk,"Требуется уровень строительных и горных инструментов 50"
+reqASConstructionMiningToolsLevel60,progression,Perk,"Требуется уровень строительных и горных инструментов 60"
+reqASConstructionMiningToolsLevel70,progression,Perk,"Требуется уровень строительных и горных инструментов 70"
+reqASConstructionMiningToolsLevel80,progression,Perk,"Требуется уровень строительных и горных инструментов 80"
+reqASConstructionMiningToolsLevel90,progression,Perk,"Требуется уровень строительных и горных инструментов 90"
+reqASConstructionMiningToolsLevel100,progression,Perk,"Требуется уровень строительных и горных инструментовl 100"
+
+perkConstructionToolCraftingName,progression,Perk,"Изготовление строительных инструментов"
+perkConstructionToolCraftingDesc,progression,Perk,"Научитесь создавать строительные инструменты."
+reqASConstructionToolsLevel10,progression,Perk,"Требуется уровень строительных инструментов 10"
+reqASConstructionToolsLevel20,progression,Perk,"Требуется уровень строительных инструментов 20"
+reqASConstructionToolsLevel30,progression,Perk,"Требуется уровень строительных инструментов 30"
+reqASConstructionToolsLevel40,progression,Perk,"Требуется уровень строительных инструментов 40"
+reqASConstructionToolsLevel50,progression,Perk,"Требуется уровень строительных инструментов 50"
+reqASConstructionToolsLevel60,progression,Perk,"Требуется уровень строительных инструментов 60"
+reqASConstructionToolsLevel70,progression,Perk,"Требуется уровень строительных инструментов 70"
+reqASConstructionToolsLevel80,progression,Perk,"Требуется уровень строительных инструментов 80"
+reqASConstructionToolsLevel90,progression,Perk,"Требуется уровень строительных инструментов 90"
+reqASConstructionToolsLevel100,progression,Perk,"Требуется уровень строительных инструментов 100"
+perkConstructionToolCraftingRank1Desc,progression,Perk,"Инструменты металлалома (из говна и палок)"
+perkConstructionToolCraftingRank1LongDesc,progression,Perk,"Разблокирует ломный топор и молоток."
+perkConstructionToolCraftingRank2Desc,progression,Perk,"Железные инструменты"
+perkConstructionToolCraftingRank2LongDesc,progression,Perk,"Разблокирует железный топор и гаечный ключ."
+perkConstructionToolCraftingRank3Desc,progression,Perk,"Стальные инструменты"
+perkConstructionToolCraftingRank3LongDesc,progression,Perk,"Открывает стальной топор и трещотку."
+perkConstructionToolCraftingRank4Desc,progression,Perk,"Электроинструменты"
+perkConstructionToolCraftingRank4LongDesc,progression,Perk,"Разблокирует бензопилу, Гвоздомет и Шуруповерт."
+perkConstructionToolCraftingRank5Desc,progression,Perk,"Продвинутые инструменты"
+perkConstructionToolCraftingRank5LongDesc,progression,Perk,"Разблокирует алюминиевый топор."
+
+perkBluntCraftingName,progression,Perk,"Изготовление дробящего владения"
+perkBluntCraftingDesc,progression,Perk,"Научитесь создавать тупое оружие."
+reqASBluntLevel10,progression,Perk,"Требуется уровень дробящего владения 10"
+reqASBluntLevel20,progression,Perk,"Требуется уровень дробящего владения 20"
+reqASBluntLevel30,progression,Perk,"Требуется уровень дробящего владения 30"
+reqASBluntLevel40,progression,Perk,"Требуется уровень дробящего владения 40"
+reqASBluntLevel50,progression,Perk,"Требуется уровень дробящего владения 50"
+reqASBluntLevel60,progression,Perk,"Требуется уровень дробящего владения 60"
+reqASBluntLevel70,progression,Perk,"Требуется уровень дробящего владения 70"
+reqASBluntLevel80,progression,Perk,"Требуется уровень дробящего владения 80"
+reqASBluntLevel90,progression,Perk,"Требуется уровень дробящего владения 90"
+reqASBluntLevel100,progression,Perk,"Требуется уровень дробящего владения 100"
+perkBluntCraftingRank1Desc,progression,Perk,"Криворукий"
+perkBluntCraftingRank1LongDesc,progression,Perk,"Разблокирует бейсбольную биту."
+perkBluntCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkBluntCraftingRank2LongDesc,progression,Perk,"Разблокирует дубинку"
+perkBluntCraftingRank3Desc,progression,Perk,"Ученик"
+perkBluntCraftingRank3LongDesc,progression,Perk,"Открывает Стальную дубинку."
+perkBluntCraftingRank4Desc,progression,Perk,"Мастер"
+perkBluntCraftingRank4LongDesc,progression,Perk,"Разблокирует стальную биту."
+perkBluntCraftingRank5Desc,progression,Perk,"СУПЕР-ПУПЕР-УБЕР-МАСТЕР"
+perkBluntCraftingRank5LongDesc,progression,Perk,"Разблокирует Хромированную дубинку настоящего поца"
+
+perkSledgehammersCraftingName,progression,Perk,"Изготовление кувалды"
+perkSledgehammersCraftingDesc,progression,Perk,"Научитесь делать кувалды."
+reqASSledgehammersLevel10,progression,Perk,"Требуется уровень Кувалды 10"
+reqASSledgehammersLevel20,progression,Perk,"Требуется уровень Кувалды 20"
+reqASSledgehammersLevel30,progression,Perk,"Требуется уровень Кувалды 30"
+reqASSledgehammersLevel40,progression,Perk,"Требуется уровень Кувалды 40"
+reqASSledgehammersLevel50,progression,Perk,"Требуется уровень Кувалды 50"
+reqASSledgehammersLevel60,progression,Perk,"Требуется уровень Кувалды 60"
+reqASSledgehammersLevel70,progression,Perk,"Требуется уровень Кувалды 70"
+reqASSledgehammersLevel80,progression,Perk,"Требуется уровень Кувалды 80"
+reqASSledgehammersLevel90,progression,Perk,"Требуется уровень Кувалды 90"
+reqASSledgehammersLevel100,progression,Perk,"Требуется уровень Кувалды 100"
+perkSledgehammersCraftingRank1Desc,progression,Perk,"Криворукий"
+perkSledgehammersCraftingRank1LongDesc,progression,Perk,"Открывает железную кувалду."
+perkSledgehammersCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkSledgehammersCraftingRank2LongDesc,progression,Perk,"Открывает стальную кувалду"
+perkSledgehammersCraftingRank3Desc,progression,Perk,"Ученик"
+perkSledgehammersCraftingRank3LongDesc,progression,Perk,"Разблокирует сокрушитель ворот дешевых проституток."
+
+perkBladedCraftingName,progression,Perk,"Изготовление клинкового владения"
+perkBladedCraftingDesc,progression,Perk,"Научитесь создавать Холодное оружие."
+reqASBladedLevel10,progression,Perk,"Требуется уровень холодного владения 10"
+reqASBladedLevel20,progression,Perk,"Требуется уровень холодного владения 20"
+reqASBladedLevel30,progression,Perk,"Требуется уровень холодного владения 30"
+reqASBladedLevel40,progression,Perk,"Требуется уровень холодного владения 40"
+reqASBladedLevel50,progression,Perk,"Требуется уровень холодного владения 50"
+reqASBladedLevel60,progression,Perk,"Требуется уровень холодного владения 60"
+reqASBladedLevel70,progression,Perk,"Требуется уровень холодного владения 70"
+reqASBladedLevel80,progression,Perk,"Требуется уровень холодного владения 80"
+reqASBladedLevel90,progression,Perk,"Требуется уровень холодного владения 90"
+reqASBladedLevel100,progression,Perk,"Требуется уровень холодного владения 100"
+perkBladedCraftingRank1Desc,progression,Perk,"Криворукий"
+perkBladedCraftingRank1LongDesc,progression,Perk,"Разблокирует из говна и палок (нож из металлолома)"
+perkBladedCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkBladedCraftingRank2LongDesc,progression,Perk,"Разблокирует охотничий нож."
+perkBladedCraftingRank3Desc,progression,Perk,"Ученик"
+perkBladedCraftingRank3LongDesc,progression,Perk,"Открывает катану и мачете."
+perkBladedCraftingRank4Desc,progression,Perk,"Мастер"
+perkBladedCraftingRank4LongDesc,progression,Perk,"Открывает Кукри"
+perkBladedCraftingRank5Desc,progression,Perk,"СУПЕР-ПУПЕР-УБЕР-МАСТЕР"
+perkBladedCraftingRank5LongDesc,progression,Perk,"Разблокирует Хромированную Мачета настоящего поца"
+
+perkElectricCraftingName,progression,Perk,"Изготовление электрического владения"
+perkElectricCraftingDesc,progression,Perk,"Научитесь создавать электрическое оружие."
+reqASElectricLevel10,progression,Perk,"Требуется уровень электрического владения 10"
+reqASElectricLevel20,progression,Perk,"Требуется уровень электрического владения 20"
+reqASElectricLevel30,progression,Perk,"Требуется уровень электрического владения 30"
+reqASElectricLevel40,progression,Perk,"Требуется уровень электрического владения 40"
+reqASElectricLevel50,progression,Perk,"Требуется уровень электрического владения 50"
+reqASElectricLevel60,progression,Perk,"Требуется уровень электрического владения 60"
+reqASElectricLevel70,progression,Perk,"Требуется уровень электрического владения 70"
+reqASElectricLevel80,progression,Perk,"Требуется уровень электрического владения 80"
+reqASElectricLevel90,progression,Perk,"Требуется уровень электрического владения 90"
+reqASElectricLevel100,progression,Perk,"Требуется уровень электрического владения 100"
+perkElectricCraftingRank1Desc,progression,Perk,"Криворукий"
+perkElectricCraftingRank1LongDesc,progression,Perk,"Разблокирует роботизированные сани."
+perkElectricCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkElectricCraftingRank2LongDesc,progression,Perk,"Разблокирует оглушающую дубинку."
+perkElectricCraftingRank3Desc,progression,Perk,"Мастер"
+perkElectricCraftingRank3LongDesc,progression,Perk,"Разблокирует Мусорную турель."
+
+
+perkArcheryCraftingName,progression,Perk,"Изготовление луков и арболетов"
+perkArcheryCraftingDesc,progression,Perk,"Узнайте, как создавать луки и арболеты."
+reqASArcheryLevel10,progression,Perk,"Требуется уровень луков и арболетов владения 10"
+reqASArcheryLevel20,progression,Perk,"Требуется уровень луков и арболетов владения 20"
+reqASArcheryLevel30,progression,Perk,"Требуется уровень луков и арболетов владения 30"
+reqASArcheryLevel40,progression,Perk,"Требуется уровень луков и арболетов владения 40"
+reqASArcheryLevel50,progression,Perk,"Требуется уровень луков и арболетов владения 50"
+reqASArcheryLevel60,progression,Perk,"Требуется уровень луков и арболетов владения 60"
+reqASArcheryLevel70,progression,Perk,"Требуется уровень луков и арболетов владения 70"
+reqASArcheryLevel80,progression,Perk,"Требуется уровень луков и арболетов владения 80"
+reqASArcheryLevel90,progression,Perk,"Требуется уровень луков и арболетов владения 90"
+reqASArcheryLevel100,progression,Perk,"Требуется уровень луков и арболетов владения 100"
+perkArcheryCraftingRank1Desc,progression,Perk,"Криворукий"
+perkArcheryCraftingRank1LongDesc,progression,Perk,"Разблокирует примитивный арбалет и лук Флетчера."
+perkArcheryCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkArcheryCraftingRank2LongDesc,progression,Perk,"Выполнение достижения открывает железный арбалет и деревянный лук."
+perkArcheryCraftingRank3Desc,progression,Perk,"Ученик"
+perkArcheryCraftingRank3LongDesc,progression,Perk,"Разблокирует составной лук и составной арбалет."
+perkArcheryCraftingRank4Desc,progression,Perk,"Мастер"
+perkArcheryCraftingRank4LongDesc,progression,Perk,"Открывает изогнутый лук, изогнутый арбалет и стрелы из углеродного волокна."
+perkArcheryCraftingRank5Desc,progression,Perk,"СУПЕР-ПУПЕР-УБЕР-МАСТЕР"
+perkArcheryCraftingRank5LongDesc,progression,Perk,"Выполнение достижения открывает репитер арбалета, комбинированный лук с гибридным кулачком и комбинированный арбалет с гибридным кулачком."
+
+
+perkPistolsCraftingName,progression,Perk,"Изготовление Пистолетов"
+perkPistolsCraftingDesc,progression,Perk,"Узнайте, как создавать пистолеты."
+reqASPistolsLevel10,progression,Perk,"Требуется уровень пистолетов 10"
+reqASPistolsLevel20,progression,Perk,"Требуется уровень пистолетов 20"
+reqASPistolsLevel30,progression,Perk,"Требуется уровень пистолетов 30"
+reqASPistolsLevel40,progression,Perk,"Требуется уровень пистолетов 40"
+reqASPistolsLevel50,progression,Perk,"Требуется уровень пистолетов 50"
+reqASPistolsLevel60,progression,Perk,"Требуется уровень пистолетов 60"
+reqASPistolsLevel70,progression,Perk,"Требуется уровень пистолетов 70"
+reqASPistolsLevel80,progression,Perk,"Требуется уровень пистолетов 80"
+reqASPistolsLevel90,progression,Perk,"Требуется уровень пистолетов 90"
+reqASPistolsLevel100,progression,Perk,"Требуется уровень пистолетов 100"
+perkPistolsCraftingRank1Desc,progression,Perk,"Криворукий"
+perkPistolsCraftingRank1LongDesc,progression,Perk,"Разблокирует пистолет."
+perkPistolsCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkPistolsCraftingRank2LongDesc,progression,Perk,"Разблокирует 44 Magnum."
+perkPistolsCraftingRank3Desc,progression,Perk,"Ученик"
+perkPistolsCraftingRank3LongDesc,progression,Perk,"Разблокирует SMG"
+perkPistolsCraftingRank4Desc,progression,Perk,"Мастер"
+perkPistolsCraftingRank4LongDesc,progression,Perk,"Разблокирует Desert Eagle"
+perkPistolsCraftingRank5Desc,progression,Perk,"СУПЕР-ПУПЕР-УБЕР-МАСТЕР"
+perkPistolsCraftingRank5LongDesc,progression,Perk,"Разблокирует 38 Colt, Colt 1911, Thompson, Glock, Mac 10"
+
+
+perkShotgunsCraftingName,progression,Perk,"Изготовление Дробовиков"
+perkShotgunsCraftingDesc,progression,Perk,"Узнайте, как создавать Дробовики."
+reqASShotgunsLevel10,progression,Perk,"Требуется уровень владения Дробовиком 10"
+reqASShotgunsLevel20,progression,Perk,"Требуется уровень владения Дробовиком 20"
+reqASShotgunsLevel30,progression,Perk,"Требуется уровень владения Дробовиком 30"
+reqASShotgunsLevel40,progression,Perk,"Требуется уровень владения Дробовиком 40"
+reqASShotgunsLevel50,progression,Perk,"Требуется уровень владения Дробовиком 50"
+reqASShotgunsLevel60,progression,Perk,"Требуется уровень владения Дробовиком 60"
+reqASShotgunsLevel70,progression,Perk,"Требуется уровень владения Дробовиком 70"
+reqASShotgunsLevel80,progression,Perk,"Требуется уровень владения Дробовиком 80"
+reqASShotgunsLevel90,progression,Perk,"Требуется уровень владения Дробовиком 90"
+reqASShotgunsLevel100,progression,Perk,"Требуется уровень владения Дробовиком 100"
+perkShotgunsCraftingRank1Desc,progression,Perk,"Криворукий"
+perkShotgunsCraftingRank1LongDesc,progression,Perk,"Разблокирует ствол "двухстволки"."
+perkShotgunsCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkShotgunsCraftingRank2LongDesc,progression,Perk,"блокирует Помповый Дробовик"
+perkShotgunsCraftingRank3Desc,progression,Perk,"Ученик"
+perkShotgunsCraftingRank3LongDesc,progression,Perk,"Разблокирует автоматический Дробовик."
+perkShotgunsCraftingRank4Desc,progression,Perk,"Мастер"
+perkShotgunsCraftingRank4LongDesc,progression,Perk,"Разблокирует KSG12"
+perkShotgunsCraftingRank5Desc,progression,Perk,"СУПЕР-ПУПЕР-УБЕР-МАСТЕР"
+perkShotgunsCraftingRank5LongDesc,progression,Perk,"Разблокирует Winchester"
+
+
+perkAutomaticsCraftingName,progression,Perk,"Изготовление автоматического оружия"
+perkAutomaticsCraftingDesc,progression,Perk,"Узнайте, как создавать автоматическое оружие."
+reqASAutomaticsLevel10,progression,Perk,"Требуется уровень владения автоматическим оружием 10"
+reqASAutomaticsLevel20,progression,Perk,"Требуется уровень владения автоматическим оружием 20"
+reqASAutomaticsLevel30,progression,Perk,"Требуется уровень владения автоматическим оружием 30"
+reqASAutomaticsLevel40,progression,Perk,"Требуется уровень владения автоматическим оружием 40"
+reqASAutomaticsLevel50,progression,Perk,"Требуется уровень владения автоматическим оружием 50"
+reqASAutomaticsLevel60,progression,Perk,"Требуется уровень владения автоматическим оружием 60"
+reqASAutomaticsLevel70,progression,Perk,"Требуется уровень владения автоматическим оружием 70"
+reqASAutomaticsLevel80,progression,Perk,"Требуется уровень владения автоматическим оружием 80"
+reqASAutomaticsLevel90,progression,Perk,"Требуется уровень владения автоматическим оружием 90"
+reqASAutomaticsLevel100,progression,Perk,"Требуется уровень владения автоматическим оружием 100"
+perkAutomaticsCraftingRank1Desc,progression,Perk,"Криворукий"
+perkAutomaticsCraftingRank1LongDesc,progression,Perk,"Разблокирует AK-47"
+perkAutomaticsCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkAutomaticsCraftingRank2LongDesc,progression,Perk,"Разблокирует Тактическую штурмовую винтовку."
+perkAutomaticsCraftingRank3Desc,progression,Perk,"Ученик"
+perkAutomaticsCraftingRank3LongDesc,progression,Perk,"Разблокирует M60"
+perkAutomaticsCraftingRank4Desc,progression,Perk,"Мастер"
+perkAutomaticsCraftingRank4LongDesc,progression,Perk,"Разблокирует FNFAL"
+perkAutomaticsCraftingRank5Desc,progression,Perk,"СУПЕР-ПУПЕР-УБЕР-МАСТЕР"
+perkAutomaticsCraftingRank5LongDesc,progression,Perk,"Разблокирует SCAR"
+
+
+perkRifleCraftingName,progression,Perk,"Изготовление Винтовок"
+perkRifleCraftingDesc,progression,Perk,"Научитесь создавать Винтовки."
+reqASRifleLevel10,progression,Perk,"Требуется уровень владения Винтовкой 10"
+reqASRifleLevel20,progression,Perk,"Требуется уровень владения Винтовкой 20"
+reqASRifleLevel30,progression,Perk,"Требуется уровень владения Винтовкой 30"
+reqASRifleLevel40,progression,Perk,"Требуется уровень владения Винтовкой 40"
+reqASRifleLevel50,progression,Perk,"Требуется уровень владения Винтовкой 50"
+reqASRifleLevel60,progression,Perk,"Требуется уровень владения Винтовкой 60"
+reqASRifleLevel70,progression,Perk,"Требуется уровень владения Винтовкой 70"
+reqASRifleLevel80,progression,Perk,"Требуется уровень владения Винтовкой 80"
+reqASRifleLevel90,progression,Perk,"Требуется уровень владения Винтовкой 90"
+reqASRifleLevel100,progression,Perk,"Требуется уровень владения Винтовкой 100"
+perkRifleCraftingRank1Desc,progression,Perk,"Криворукий"
+perkRifleCraftingRank1LongDesc,progression,Perk,"Разблокирует Охотничью Винтовку"
+perkRifleCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkRifleCraftingRank2LongDesc,progression,Perk,"Разблокирует Стрелковую Винтовку"
+perkRifleCraftingRank3Desc,progression,Perk,"Ученик"
+perkRifleCraftingRank3LongDesc,progression,Perk,"Разблокирует Снайперскую Винтовку"
+perkRifleCraftingRank4Desc,progression,Perk,"Мастер"
+perkRifleCraftingRank4LongDesc,progression,Perk,"Разблокирует JNG90"
+perkRifleCraftingRank5Desc,progression,Perk,"СУПЕР-ПУПЕР-УБЕР-МАСТЕР"
+perkRifleCraftingRank5LongDesc,progression,Perk,"Разблокирует M1 Garand и M98"
+
+perkBrawlerCraftingName,progression,Perk,"Изготовление кулачного оружия"
+perkBrawlerCraftingDesc,progression,Perk,"Научитесь создавать оружие кулачных бойцов."
+reqASBrawlerLevel10,progression,Perk,"Требуется уровень владения Кулачным оружием 10"
+reqASBrawlerLevel20,progression,Perk,"Требуется уровень владения Кулачным оружием 20"
+reqASBrawlerLevel30,progression,Perk,"Требуется уровень владения Кулачным оружием 30"
+reqASBrawlerLevel40,progression,Perk,"Требуется уровень владения Кулачным оружием 40"
+reqASBrawlerLevel50,progression,Perk,"Требуется уровень владения Кулачным оружием 50"
+reqASBrawlerLevel60,progression,Perk,"Требуется уровень владения Кулачным оружием 60"
+reqASBrawlerLevel70,progression,Perk,"Требуется уровень владения Кулачным оружием 70"
+reqASBrawlerLevel80,progression,Perk,"Требуется уровень владения Кулачным оружием 80"
+reqASBrawlerLevel90,progression,Perk,"Требуется уровень владения Кулачным оружием 90"
+reqASBrawlerLevel100,progression,Perk,"Требуется уровень владения Кулачным оружием 100"
+perkBrawlerCraftingRank1Desc,progression,Perk,"Криворукий"
+perkBrawlerCraftingRank1LongDesc,progression,Perk,"Разблокирует Кожаные повязки на Кулаки"
+perkBrawlerCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkBrawlerCraftingRank2LongDesc,progression,Perk,"Разблокирует Железные повязки на Кулаки"
+perkBrawlerCraftingRank3Desc,progression,Perk,"Мастер"
+perkBrawlerCraftingRank3LongDesc,progression,Perk,"Разблокирует Стальные повязки на Кулаки"
+
+perkJavelinCraftingName,progression,Perk,"Изготовление Джавелина"
+perkJavelinCraftingDesc,progression,Perk,"Узнайте, как создавать оружие Джавелин."
+reqASJavelinLevel20,progression,Perk,"Требуется владения Джавелином 20"
+reqASJavelinLevel40,progression,Perk,"Требуется владения Джавелином 40"
+reqASJavelinLevel60,progression,Perk,"Требуется владения Джавелином 60"
+perkJavelinCraftingRank1Desc,progression,Perk,"Криворукий"
+perkJavelinCraftingRank1LongDesc,progression,Perk,"Разблокирует Железное Копье"
+perkJavelinCraftingRank2Desc,progression,Perk,"Подмастерье"
+perkJavelinCraftingRank2LongDesc,progression,Perk,"Разблокирует Стальное Копье"
+perkJavelinCraftingRank3Desc,progression,Perk,"Мастер"
+perkJavelinCraftingRank3LongDesc,progression,Perk,"Разблокирует Алебарду"
+
+reqASAthleticsLevel20,progression,Perk,"Требуется уровень Легкой Атлетики 20"
+reqASAthleticsLevel40,progression,Perk,"Требуется уровень Легкой Атлетики 40"
+reqASAthleticsLevel60,progression,Perk,"Требуется уровень Легкой Атлетики 60"
+reqASAthleticsLevel80,progression,Perk,"Требуется уровень Легкой Атлетики 80"
+reqASAthleticsLevel100,progression,Perk,"Требуется уровень Легкой Атлетики 100"
+perkASAthletics1Desc,progression,Perk,+5% восстановление выносливости во время бега. Повышается на уровне мастерства 21. Влияние головных уборов (Сука опять это херабора) +25% на уровне 100. Уменьшить расход выносливости при прыжках на 4% Повышается на уровне мастерства 21.
+perkASAthletics2Desc,progression,Perk,+10% восстановление выносливости во время бега. Повышается на уровне мастерства 41. Влияние головных уборов (Сука опять это херабора) +25% на уровне 100. Уменьшить расход выносливости при прыжках на 8% Повышается на уровне мастерства 41.
+perkASAthletics3Desc,,progression,Perk,+15% восстановление выносливости во время бега. Повышается на уровне мастерства 61. Влияние головных уборов (Сука опять это херабора) +25% на уровне 100. Уменьшить расход выносливости при прыжках на 12% Повышается на уровне мастерства 61.
+perkASAthletics4Desc,progression,Perk,+20% восстановление выносливости во время бега. Повышается на уровне мастерства 81. Влияние головных уборов (Сука опять это херабора) +25% на уровне 100. Уменьшить расход выносливости при прыжках на 16% Повышается на уровне мастерства 81.
+perkASAthletics5Desc,progression,Perk,+25% stamina recovery while running. Уменьшить расход выносливости при прыжках на 20%
+perkASAthleticsName,progression,Attribute,Атлетика (мастер делать ноги)
+perkASAthleticsDesc,progression,Attribute,Меньше расход выносливости при прыжках и лучшее восстановление выносливости во время бега.
+
+
+
+
+magazinePerkASConstructionTools,items,Book,"Журнал: Строительные инструменты [e7a729](2 Очка)[-]"
+magazinePerkASMiningTools,items,Book,"Журнал: Горно-добывающие инструменты [e7a729](2 Очка)[-]"
+magazinePerkASBlunt,items,Book,"Журнал: Дробящее оружие [e7a729](2 Очка)[-]"
+magazinePerkASBladed,items,Book,"Журнал: Холодное оружие [e7a729](2 Очка)[-]"
+magazinePerkASArchery,items,Book,"Журнал: Стрельба из лука [e7a729](2 Очка)[-]"
+magazinePerkASPistols,items,Book,"Журнал: Пистолеты [e7a729](2 Очка)[-]"
+magazinePerkASShotguns,items,Book,"Журнал: Дробовик [e7a729](2 Очка)[-]"
+magazinePerkASRifles,items,Book,"Журнал: Винтовки [e7a729](2 Очка)[-]"
+magazinePerkASAutomatics,items,Book,"Журнал: Автоматическое оружие [e7a729](2 Очка)[-]"
+magazinePerkASElectric,items,Book,"Журнал: Электрическое оружие [e7a729](2 Очка)[-]"
+magazinePerkASTurret,items,Book,"Журнал: Турели [e7a729](2 Очка)[-]"
+magazinePerkASJavelin,items,Book,"Журнал: Джевелины (Копья) [e7a729](2 Очка)[-]"
+magazinePerkASBrawler,items,Book,"Журнал: Кулачное оружие [e7a729](2 Очка)[-]"
+magazinePerkASSledgehammers,items,Book,"Журнал: Кувалды [e7a729](2 Очка)[-]"
+
+
+magazinePerkASConstructionTools3Points,items,Book,"Журнал: Строительные инструменты [e7a729](3 Очка)[-]"
+magazinePerkASMiningTools3Points,items,Book,"Журнал: Горно-добывающие инструменты [e7a729](3 Очка)[-]"
+magazinePerkASBlunt3Points,items,Book,"Журнал: Дробящее оружие [e7a729](3 Очка)[-]"
+magazinePerkASBladed3Points,items,Book,"Журнал: Холодное оружие [e7a729](3 Очка)[-]"
+magazinePerkASArchery3Points,items,Book,"Журнал: Стрельба из лука [e7a729](3 Очка)[-]"
+magazinePerkASPistols3Points,items,Book,"Журнал: Пистолеты [e7a729](3 Очка)[-]"
+magazinePerkASShotguns3Points,items,Book,"Журнал: Дробовик [e7a729](3 Очка)[-]"
+magazinePerkASRifles3Points,items,Book,"Журнал: Винтовки [e7a729](3 Очка)[-]"
+magazinePerkASAutomatics3Points,items,Book,"Журнал: Автоматическое оружие [e7a729](3 Очка)[-]"
+magazinePerkASElectric3Points,items,Book,"Журнал: Электрическое оружие [e7a729](3 Очка)[-]"
+magazinePerkASTurret3Points,items,Book,"Журнал: Турели [e7a729](3 Очка)[-]"
+magazinePerkASJavelin3Points,items,Book,"Журнал: Джевелины (Копья) [e7a729](3 Очка)[-]"
+magazinePerkASBrawler3Points,items,Book,"Журнал: Кулачное оружие [e7a729](3 Очка)[-]"
+magazinePerkASSledgehammers3Points,items,Book,"Журнал: Кувалды [e7a729](3 Очка)[-]"
+
+
+magazinePerkASConstructionTools5Points,items,Book,"Журнал: Строительные инструменты [e7a729](5 Очков)[-]"
+magazinePerkASMiningTools5Points,items,Book,"Журнал: Горно-добывающие инструменты [e7a729](5 Очков)[-]"
+magazinePerkASBlunt5Points,items,Book,"Журнал: Дробящее оружие [e7a729](5 Очков)[-]"
+magazinePerkASBladed5Points,items,Book,"Журнал: Холодное оружие [e7a729](5 Очков)[-]"
+magazinePerkASArchery5Points,items,Book,"Журнал: Стрельба из лука [e7a729](5 Очков)[-]"
+magazinePerkASPistols5Points,items,Book,"Журнал: Пистолеты [e7a729](5 Очков)[-]"
+magazinePerkASShotguns5Points,items,Book,"Журнал: Дробовик [e7a729](5 Очков)[-]"
+magazinePerkASRifles5Points,items,Book,"Журнал: Винтовки [e7a729](5 Очков)[-]"
+magazinePerkASAutomatics5Points,items,Book,"Журнал: Автоматическое оружие [e7a729](5 Очков)[-]"
+magazinePerkASElectric5Points,items,Book,"Журнал: Электрическое оружие [e7a729](5 Очков)[-]"
+magazinePerkASTurret5Points,items,Book,"Журнал: Турели [e7a729](5 Очков)[-]"
+magazinePerkASJavelin5Points,items,Book,"Журнал: Джевелины (Копья) [e7a729](5 Очков)[-]"
+magazinePerkASBrawler5Points,items,Book,"Журнал: Кулачное оружие [e7a729](5 Очков)[-]"
+magazinePerkASSledgehammers5Points,items,Book,"Журнал: Кувалды [e7a729](5 Очков)[-]"
+
+
+magazinePerkASMiningTools3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Горно-добывающих инструментах.
+magazinePerkASConstructionTools3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Строительных инструментах.
+magazinePerkASBlunt3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Дробящем оружие.
+magazinePerkASBladed3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Холодном оружие.
+magazinePerkASArchery3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Луках.
+magazinePerkASPistols3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Пистолетах.
+magazinePerkASShotguns3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Дробовиках.
+magazinePerkASRifles3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Винтовках.
+magazinePerkASAutomatics3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Автоматическом оружие.
+magazinePerkASElectric3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Электрическом оружие.
+magazinePerkASTurret3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Турелях.
+magazinePerkASJavelin3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Джевелинах (Копья).
+magazinePerkASBrawler3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Кулачном оружие.
+magazinePerkASSledgehammers3PointsDesc,items,Book,Предоставляет вам три уровня Навыков действия в Кувалдах.
+
+
+magazinePerkASMiningTools5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Горно-добывающих инструментах.
+magazinePerkASConstructionTools5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Строительных инструментах.
+magazinePerkASBlunt5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Дробящем оружие.
+magazinePerkASBladed5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Холодном оружие.
+magazinePerkASArchery5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Луках.
+magazinePerkASPistols5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Пистолетах.
+magazinePerkASShotguns5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Дробовиках.
+magazinePerkASRifles5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Винтовках.
+magazinePerkASAutomatics5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Автоматическом оружие.
+magazinePerkASElectric5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Электрическом оружие.
+magazinePerkASTurret5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Турелях.
+magazinePerkASJavelin5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Джевелинах (Копья).
+magazinePerkASBrawler5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Кулачном оружие.
+magazinePerkASSledgehammers5PointsDesc,items,Book,Предоставляет вам пять уровня Навыков действия в Кувалдах.
+
+
+magazinePerkASMiningToolsDesc,items,Book,Предоставляет вам два уровня Навыков действия в Горно-добывающих инструментах.
+magazinePerkASConstructionToolsDesc,items,Book,Предоставляет вам два уровня Навыков действия в Строительных инструментах.
+magazinePerkASBluntDesc,items,Book,Предоставляет вам два уровня Навыков действия в Дробящем оружие.
+magazinePerkASBladedDesc,items,Book,Предоставляет вам два уровня Навыков действия в Холодном оружие.
+magazinePerkASArcheryDesc,items,Book,Предоставляет вам два уровня Навыков действия в Луках.
+magazinePerkASPistolsDesc,items,Book,Предоставляет вам два уровня Навыков действия в Pistol Weapons.
+magazinePerkASShotgunsDesc,items,Book,Предоставляет вам два уровня Навыков действия в Дробовиках.
+magazinePerkASRiflesDesc,items,Book,Предоставляет вам два уровня Навыков действия в Винтовках.
+magazinePerkASAutomaticsDesc,items,Book,Предоставляет вам два уровня Навыков действия в Автоматическом оружие.
+magazinePerkASElectricDesc,items,Book,Предоставляет вам два уровня Навыков действия в Электрическом оружие.
+magazinePerkASTurretDesc,items,Book,Предоставляет вам два уровня Навыков действия в Турелях.
+magazinePerkASJavelinDesc,items,Book,Предоставляет вам два уровня Навыков действия в Джевелинах (Копья).
+magazinePerkASBrawlerDesc,items,Book,Предоставляет вам два уровня Навыков действия в Кулачном оружие.
+magazinePerkASSledgehammersDesc,items,Book,Предоставляет вам два уровня Навыков действия в Кувалдах.
+
+perkMilitaryBackpackName,progression,Perk,"Военный рюкзак"
+perkMilitaryBackpackDesc,progression,Perk,"УРАААА!!!Теперь у вас военный рюкзак и можете переносить больше барахла."
+reqPerkPackMuleRank10,progression,Perk,"Требуется Вьючный мул 10-го уровня"
+perkMilitaryBackpackRank1Desc,progression,Perk,"Человек-грузчик (Человеческий груз)"
+perkMilitaryBackpackRank1LongDesc,progression,Perk,"Разблокирует последнюю строку в вашем инвентаре"
