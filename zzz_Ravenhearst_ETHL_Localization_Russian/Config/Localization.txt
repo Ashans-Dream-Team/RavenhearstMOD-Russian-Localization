@@ -28,17 +28,17 @@ quest_BasicSurvival6d_description,«Один из ключей к выживан
 
 <--Key,Source,Context,English ( zz_PerkMastery_Localization) --/>
 
-attMastery,Джекс на все руки
-attMastery,Джекс на все руки
-attMasteryDesc,Мастер изящного искусства быть зверем, как Джекс!.
-attMasteryName,Аттрибут: Джекс на все руки
-skillJackOfAllName,Джекс на все руки
+attmastery,Мастер-фломастер
+attMastery,Мастер-фломастер
+attMasteryDesc,Мастер изящного искусства быть зверем, как Мастер-фломастер!.
+attMasteryName,Аттрибут: Мастер-фломастер на все руки
+skillJackOfAllName,Мастер-фломастер на все руки
 skillMeleeMasteryName,Мастерство ближнего боя
 skillRangedMasteryName,Мастерство дальнего боя
 skillJackOfAllDesc,Перки всего!
 skillMeleeMasteryDesc,Перки рукопашного боя!
 skillRangedMasteryDesc,Перки дальнего боя!
-perkSprinterName,Бегун
+perkSprinterName,Бегун-серун
 perkSprinterDesc,Вы овладеваете искусством "Делать ноги". Осталось научится при этом не обделываться. Ваша скорость бега увеличивается.
 perkSprinterRank1Desc,Бегун I
 perkSprinterRank1LongDesc,Увеличение скорости бега на 2%.
@@ -174,7 +174,7 @@ reqASMiningToolsLevel70,"Требуется уровень горных инст
 reqASMiningToolsLevel80,"Требуется уровень горных инструментовl 80"
 reqASMiningToolsLevel90,"Требуется уровень горных инструментов 90"
 reqASMiningToolsLevel100,"Требуется уровень горных инструментов 100"
-perkMiningToolCraftingRank1Desc,"Инструменты металлалома (из говна и палок)"
+perkMiningToolCraftingRank1Desc,"Инструменты из металлалома (точнее из говна и палок)"
 perkMiningToolCraftingRank1LongDesc,"Разблокирует кирку и лопату металлолома."
 perkMiningToolCraftingRank2Desc,"Железные инструменты"
 perkMiningToolCraftingRank2LongDesc,"Открывает железную кирку и железную лопату."
@@ -376,7 +376,7 @@ perkShotgunsCraftingRank5Desc,"СУПЕР-ПУПЕР-УБЕР-МАСТЕР"
 perkShotgunsCraftingRank5LongDesc,"Разблокирует Winchester"
 
 
-perkAutomaticsCraftingName,"Изготовление автоматического оружия"
+perkAutomaticsCraftingName,"Изготовление Автоматов-Калашей"
 perkAutomaticsCraftingDesc,"Узнайте, как создавать автоматическое оружие."
 reqASAutomaticsLevel10,"Требуется уровень оружия автоматическим оружием 10"
 reqASAutomaticsLevel20,"Требуется уровень оружия автоматическим оружием 20"
@@ -442,7 +442,7 @@ perkBrawlerCraftingRank2LongDesc,"Разблокирует Железные по
 perkBrawlerCraftingRank3Desc,"Мастер"
 perkBrawlerCraftingRank3LongDesc,"Разблокирует Стальные повязки на Кулаки"
 
-perkJavelinCraftingName,"Изготовление Джавелина"
+perkJavelinCraftingName,"Изготовление Копий"
 perkJavelinCraftingDesc,"Узнайте, как создавать оружие Джавелин."
 reqASJavelinLevel20,"Требуется оружия Джавелином 20"
 reqASJavelinLevel40,"Требуется оружия Джавелином 40"
