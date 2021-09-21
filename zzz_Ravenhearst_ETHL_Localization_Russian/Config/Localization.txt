@@ -38,7 +38,7 @@ skillJackOfAllDesc,progression,Perk,Перки всего!
 skillMeleeMasteryDesc,progression,Perk,Перки рукопашного боя!
 skillRangedMasteryDesc,progression,Perk,Перки дальнего боя!
 perkSprinterName,progression,Perk,Бегун
-perkSprinterDesc,progression,Perk,Вы овладеваете искусством бега от / до любого звука, который слышите. Ваша скорость бега увеличивается.
+perkSprinterDesc,progression,Perk,Вы овладеваете искусством "Делать ноги". Осталось научится при этом не обделываться. Ваша скорость бега увеличивается.
 perkSprinterRank1Desc,progression,Perk,Бегун I
 perkSprinterRank1LongDesc,progression,Perk,Увеличение скорости бега на 2%.
 perkSprinterRank2Desc,progression,Perk,Бегун II
@@ -124,7 +124,7 @@ perkHammererRank8LongDesc,progression,Perk,Увеличение скорости
 perkHammererRank9Desc,progression,Perk,Молотобоец IX
 perkHammererRank9LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 18%.
 perkHammererRank10Desc,progression,Perk,Мастер молотобоец
-perkHammererRank10LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 25%.
+perkHammererRank10LongDesc,progression,Perk,Теперь вы круты как Крис Хемсворт. Увеличение скорости удара кувалдой на 25%.
 
 <--Key,Source,Context,English (zJax_ActionSkills_Localization.txt)--/>
 
