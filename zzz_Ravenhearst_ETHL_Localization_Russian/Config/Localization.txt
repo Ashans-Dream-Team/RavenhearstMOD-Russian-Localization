@@ -25,18 +25,18 @@ quest_BasicSurvival7b_description,"Добудьте дерево и изгото
 quest_BasicSurvival6d_subtitle,Вылечите заражение.
 quest_BasicSurvival6d_description,«Один из ключей к выживанию - это лечение инфекций. Самый простой способ сделать это - собрать соты с медом, уничтожив пни. Найдите один или два пня и соберите 3 соты с медом. Используйте предоставленную банку, чтобы приготовить немного меда, и держитесь за них. это дальнейшего использования. "
 
-<--Key,Source,Context,English ( zz_PerkМастерy_Localization) --/>
+<--Key,Source,Context,English ( zz_PerkMastery_Localization) --/>
 
-attМастерy,progression,Attribute,Джекс на все руки
-attМастерy,progression,Attribute,Джекс на все руки
-attМастерyDesc,progression,Attribute,Мастер изящного искусства быть зверем, как Джекс!.
-attМастерyName,progression,Attribute,Аттрибут: Джекс на все руки
+attMastery,progression,Attribute,Джекс на все руки
+attMastery,progression,Attribute,Джекс на все руки
+attMasteryDesc,progression,Attribute,Мастер изящного искусства быть зверем, как Джекс!.
+attMasteryName,progression,Attribute,Аттрибут: Джекс на все руки
 skillJackOfAllName,progression,Perk,Джекс на все руки
-skillMeleeМастерyName,progression,Perk,Мастерство ближнего боя
-skillRangedМастерyName,progression,Perk,Мастерство дальнего боя
+skillMeleeMasteryName,progression,Perk,Мастерство ближнего боя
+skillRangedMasteryName,progression,Perk,Мастерство дальнего боя
 skillJackOfAllDesc,progression,Perk,Перки всего!
-skillMeleeМастерyDesc,progression,Perk,Перки рукопашного боя!
-skillRangedМастерyDesc,progression,Perk,Перки дальнего боя!
+skillMeleeMasteryDesc,progression,Perk,Перки рукопашного боя!
+skillRangedMasteryDesc,progression,Perk,Перки дальнего боя!
 perkSprinterName,progression,Perk,Бегун
 perkSprinterDesc,progression,Perk,Вы овладеваете искусством бега от / до любого звука, который слышите. Ваша скорость бега увеличивается.
 perkSprinterRank1Desc,progression,Perk,Бегун I
