@@ -1,6 +1,5 @@
 ﻿Key,Russian
 
-Key,Russian
 
 quest_BasicSurvival1a,Основы Выживания 5/14
 quest_BasicSurvival1b,Основы Выживания 2/14
