@@ -58,7 +58,7 @@ perkSprinterRank8LongDesc,progression,Perk,Увеличение скорости
 perkSprinterRank9Desc,progression,Perk,Бегун IX
 perkSprinterRank9LongDesc,progression,Perk,Увеличение скорости бега на 18%.
 perkSprinterRank10Desc,progression,Perk,Мастер Бегун
-perkSprinterRank10LongDesc,progression,Perk,Ваша скорость равна скорости Усэйна Болта. Увеличение скорости бега на 25%.
+perkSprinterRank10LongDesc,progression,Perk,Ваша скорость равна скорости Кристофера Хемсворта. Увеличение скорости бега на 25%.
 perkSurvivalistName,progression,Perk,Выживший
 perkSurvivalistDesc,progression,Perk,Вы тренируете свое тело до максимальных пределов.Ваша устойчивость к погоде возрастает.
 perkSurvivalistRank1Desc,progression,Perk,Выживший I
