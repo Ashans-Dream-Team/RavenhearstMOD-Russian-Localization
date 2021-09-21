@@ -24,3 +24,104 @@ quest_BasicSurvival1b_description,Персональный верстак - са
 quest_BasicSurvival7b_description,"Добудьте дерево и изготовьте деревянный каркас из основной группы в окне изготовления. Разместите деревянный каркас в мире. Для этого возьмите его в руки и нажмите клавишу дополнительного действия. Если у вас в инвентаре осталась древесина, улучшите его, используя каменный топор и клавишу дополнительного действия."
 quest_BasicSurvival6d_subtitle,Вылечите заражение.
 quest_BasicSurvival6d_description,«Один из ключей к выживанию - это лечение инфекций. Самый простой способ сделать это - собрать соты с медом, уничтожив пни. Найдите один или два пня и соберите 3 соты с медом. Используйте предоставленную банку, чтобы приготовить немного меда, и держитесь за них. это для дальнейшего использования. "
+
+<--Key,Source,Context,English ( zz_PerkMastery_Localization) --/>
+
+attmastery,progression,Attribute,Джекс на все руки
+attMastery,progression,Attribute,Джекс на все руки
+attMasteryDesc,progression,Attribute,Мастер изящного искусства быть зверем, как Джекс!.
+attMasteryName,progression,Attribute,Аттрибут: Джекс на все руки
+skillJackOfAllName,progression,Perk,Джекс на все руки
+skillMeleeMasteryName,progression,Perk,Мастерство ближнего боя
+skillRangedMasteryName,progression,Perk,Мастерство дальнего боя
+skillJackOfAllDesc,progression,Perk,Перки для всего!
+skillMeleeMasteryDesc,progression,Perk,Перки для рукопашного боя!
+skillRangedMasteryDesc,progression,Perk,Перки для дальнего боя!
+perkSprinterName,progression,Perk,Бегун
+perkSprinterDesc,progression,Perk,Вы овладеваете искусством бега от / до любого звука, который слышите. Ваша скорость бега увеличивается.
+perkSprinterRank1Desc,progression,Perk,Бегун I
+perkSprinterRank1LongDesc,progression,Perk,Увеличение скорости бега на 2%.
+perkSprinterRank2Desc,progression,Perk,Бегун II
+perkSprinterRank2LongDesc,progression,Perk,Увеличение скорости бега на 4%.
+perkSprinterRank3Desc,progression,Perk,Бегун III
+perkSprinterRank3LongDesc,progression,Perk,Увеличение скорости бега на 6%.
+perkSprinterRank4Desc,progression,Perk,Бегун IV
+perkSprinterRank4LongDesc,progression,Perk,Увеличение скорости бега на 8%.
+perkSprinterRank5Desc,progression,Perk,Бегун V
+perkSprinterRank5LongDesc,progression,Perk,Увеличение скорости бега на 10%.
+perkSprinterRank6Desc,progression,Perk,Бегун VI
+perkSprinterRank6LongDesc,progression,Perk,Увеличение скорости бега на 12%.
+perkSprinterRank7Desc,progression,Perk,Бегун VII
+perkSprinterRank7LongDesc,progression,Perk,Увеличение скорости бега на 14%.
+perkSprinterRank8Desc,progression,Perk,Бегун VIII
+perkSprinterRank8LongDesc,progression,Perk,Увеличение скорости бега на 16%.
+perkSprinterRank9Desc,progression,Perk,Бегун IX
+perkSprinterRank9LongDesc,progression,Perk,Увеличение скорости бега на 18%.
+perkSprinterRank10Desc,progression,Perk,Мастер Бегун
+perkSprinterRank10LongDesc,progression,Perk,Ваша скорость равна скорости Усэйна Болта. Увеличение скорости бега на 25%.
+perkSurvivalistName,progression,Perk,Выживший
+perkSurvivalistDesc,progression,Perk,Вы тренируете свое тело до максимальных пределов.Ваша устойчивость к погоде возрастает.
+perkSurvivalistRank1Desc,progression,Perk,Выживший I
+perkSurvivalistRank1LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 2.
+perkSurvivalistRank2Desc,progression,Perk,Выживший II
+perkSurvivalistRank2LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 4.
+perkSurvivalistRank3Desc,progression,Perk,Выживший III
+perkSurvivalistRank3LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 6.
+perkSurvivalistRank4Desc,progression,Perk,Выживший IV
+perkSurvivalistRank4LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 8.
+perkSurvivalistRank5Desc,progression,Perk,Выживший V
+perkSurvivalistRank5LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 10.
+perkSurvivalistRank6Desc,progression,Perk,Выживший VI
+perkSurvivalistRank6LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 12.
+perkSurvivalistRank7Desc,progression,Perk,Выживший VII
+perkSurvivalistRank7LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 14.
+perkSurvivalistRank8Desc,progression,Perk,Выживший VIII
+perkSurvivalistRank8LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 16.
+perkSurvivalistRank9Desc,progression,Perk,Выживший IX
+perkSurvivalistRank9LongDesc,progression,Perk,Увеличение устойчивости к жаре и холоду на 18.
+perkSurvivalistRank10Desc,progression,Perk,Мастер Выживший
+perkSurvivalistRank10LongDesc,progression,Perk,Вы овладели искусством выживания в дикой природе, вы даже готовите медведей на гриле! Увеличение устойчивости к жаре и холоду на 25.
+perkCalisthenicsName,progression,Perk,Физподготовка
+perkCalisthenicsDesc,progression,Perk,Вы осваиваете метод упражнений, при котором задействуете только свое тело, соблюдаете ежедневный режим тренировок и соблюдаете сбалансированную диету. Ваше максимальное здоровье и выносливость увеличиваются.
+perkCalisthenicsRank1Desc,progression,Perk,Физподготовка I
+perkCalisthenicsRank1LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  3%.
+perkCalisthenicsRank2Desc,progression,Perk,Физподготовка II
+perkCalisthenicsRank2LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  6%.
+perkCalisthenicsRank3Desc,progression,Perk,Физподготовка III
+perkCalisthenicsRank3LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  9%.
+perkCalisthenicsRank4Desc,progression,Perk,Физподготовка IV
+perkCalisthenicsRank4LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  12%.
+perkCalisthenicsRank5Desc,progression,Perk,Физподготовка V
+perkCalisthenicsRank5LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  15%.
+perkCalisthenicsRank6Desc,progression,Perk,Физподготовка VI
+perkCalisthenicsRank6LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  18%.
+perkCalisthenicsRank7Desc,progression,Perk,Физподготовка VII
+perkCalisthenicsRank7LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  21%.
+perkCalisthenicsRank8Desc,progression,Perk,Физподготовка VIII
+perkCalisthenicsRank8LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  24%.
+perkCalisthenicsRank9Desc,progression,Perk,Физподготовка IX
+perkCalisthenicsRank9LongDesc,progression,Perk,Увеличение максимального здоровья и выносливости на  27%.
+perkCalisthenicsRank10Desc,progression,Perk,Мастер физподготовки
+perkCalisthenicsRank10LongDesc,progression,Perk,У тебя черты Геракла. Увеличение максимального здоровья и выносливости на  40%.
+perkHammererName,progression,Perk,Молотобоец
+perkHammererDesc,progression,Perk,Вы осваиваете искусство владения кувалдой.
+perkHammererRank1Desc,progression,Perk,Молотобоец I
+perkHammererRank1LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 2%.
+perkHammererRank2Desc,progression,Perk,Молотобоец II
+perkHammererRank2LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 4%.
+perkHammererRank3Desc,progression,Perk,Молотобоец III
+perkHammererRank3LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 6%.
+perkHammererRank4Desc,progression,Perk,Молотобоец IV
+perkHammererRank4LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 8%.
+perkHammererRank5Desc,progression,Perk,Молотобоец V
+perkHammererRank5LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 10%.
+perkHammererRank6Desc,progression,Perk,Молотобоец VI
+perkHammererRank6LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 12%.
+perkHammererRank7Desc,progression,Perk,Молотобоец VII
+perkHammererRank7LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 14%.
+perkHammererRank8Desc,progression,Perk,Молотобоец VIII
+perkHammererRank8LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 16%.
+perkHammererRank9Desc,progression,Perk,Молотобоец IX
+perkHammererRank9LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 18%.
+perkHammererRank10Desc,progression,Perk,Мастер молотобоец
+perkHammererRank10LongDesc,progression,Perk,Увеличение скорости удара кувалдой на 25%.
