@@ -569,3 +569,13 @@ perkMilitaryBackpackDesc,progression,Perk,"УРАААА!!!Теперь у вас
 reqPerkPackMuleRank10,progression,Perk,"Требуется Вьючный мул 10-го уровня"
 perkMilitaryBackpackRank1Desc,progression,Perk,"Человек-грузчик (Человеческий груз)"
 perkMilitaryBackpackRank1LongDesc,progression,Perk,"Разблокирует последнюю строку в вашем инвентаре"
+
+<!-- 0-CreaturePackAnimals -->
+Key,Source,Context,UsedInMainMenu,NoTranslate,English
+
+qc_Strays,items,Item,New,Strays Quest,Бродячий квест,,,,
+qc_StraysDesc,items,Quest - Challenge,,,В этом месте стая бездомных собак терроризирует мешает спать зомбям.,,
+challenge_Strays,Quest,Challenge Info,,,Бродячие
+challenge_Strays_offer,Quest,Challenge Info,,,"Дорогой выживший, \ nДа, я понимаю, что они милые и мило кусают за жопку. Но мы хотим спать, Ты знаешь с ними делать. \ In \ Удачи! С Уважением, Зомби!."
+challenge_Strays_subtitle,Quest,Challenge Info,,,Гав гав? МАЗАФАКА!
+challenge_Strays_completion,Quest,Quest Info,,,Хорошо, готово ... вот мусор, который я нашел и от которого давно хотел избавится. \nВозьми это.
