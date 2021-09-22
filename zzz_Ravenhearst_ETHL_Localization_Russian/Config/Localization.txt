@@ -520,33 +520,33 @@ magazinePerkASSledgehammers5Points,"Журнал: Кувалды [e7a729](5 Оч
 
 magazinePerkASMiningTools3PointsDesc,Предоставляет вам три уровня Навыков действия в Горно-добывающих инструментах.
 magazinePerkASConstructionTools3PointsDesc,Предоставляет вам три уровня Навыков действия в Строительных инструментах.
-magazinePerkASBlunt3PointsDesc,Предоставляет вам три уровня Навыков действия в Дробящем оружие.
-magazinePerkASBladed3PointsDesc,Предоставляет вам три уровня Навыков действия в Холодном оружие.
+magazinePerkASBlunt3PointsDesc,Предоставляет вам три уровня Навыков действия в Дробящем оружии.
+magazinePerkASBladed3PointsDesc,Предоставляет вам три уровня Навыков действия в Холодном оружии.
 magazinePerkASArchery3PointsDesc,Предоставляет вам три уровня Навыков действия в Луках.
 magazinePerkASPistols3PointsDesc,Предоставляет вам три уровня Навыков действия в Пистолетах.
 magazinePerkASShotguns3PointsDesc,Предоставляет вам три уровня Навыков действия в Дробовиках.
 magazinePerkASRifles3PointsDesc,Предоставляет вам три уровня Навыков действия в Винтовках.
-magazinePerkASAutomatics3PointsDesc,Предоставляет вам три уровня Навыков действия в Автоматическом оружие.
-magazinePerkASElectric3PointsDesc,Предоставляет вам три уровня Навыков действия в Электрическом оружие.
+magazinePerkASAutomatics3PointsDesc,Предоставляет вам три уровня Навыков действия в Автоматическом оружии.
+magazinePerkASElectric3PointsDesc,Предоставляет вам три уровня Навыков действия в Электрическом оружии.
 magazinePerkASTurret3PointsDesc,Предоставляет вам три уровня Навыков действия в Турелях.
 magazinePerkASJavelin3PointsDesc,Предоставляет вам три уровня Навыков действия в Джевелинах (Копья).
-magazinePerkASBrawler3PointsDesc,Предоставляет вам три уровня Навыков действия в Кулачном оружие.
+magazinePerkASBrawler3PointsDesc,Предоставляет вам три уровня Навыков действия в Кулачном оружии.
 magazinePerkASSledgehammers3PointsDesc,Предоставляет вам три уровня Навыков действия в Кувалдах.
 
 
 magazinePerkASMiningTools5PointsDesc,Предоставляет вам пять уровней Навыков действия в Горно-добывающих инструментах.
 magazinePerkASConstructionTools5PointsDesc,Предоставляет вам пять уровней Навыков действия в Строительных инструментах.
-magazinePerkASBlunt5PointsDesc,Предоставляет вам пять уровней Навыков действия в Дробящем оружие.
-magazinePerkASBladed5PointsDesc,Предоставляет вам пять уровней Навыков действия в Холодном оружие.
+magazinePerkASBlunt5PointsDesc,Предоставляет вам пять уровней Навыков действия в Дробящем оружии.
+magazinePerkASBladed5PointsDesc,Предоставляет вам пять уровней Навыков действия в Холодном оружии.
 magazinePerkASArchery5PointsDesc,Предоставляет вам пять уровней Навыков действия в Луках.
 magazinePerkASPistols5PointsDesc,Предоставляет вам пять уровней Навыков действия в Пистолетах.
 magazinePerkASShotguns5PointsDesc,Предоставляет вам пять уровней Навыков действия в Дробовиках.
 magazinePerkASRifles5PointsDesc,Предоставляет вам пять уровней Навыков действия в Винтовках.
-magazinePerkASAutomatics5PointsDesc,Предоставляет вам пять уровней Навыков действия в Автоматическом оружие.
-magazinePerkASElectric5PointsDesc,Предоставляет вам пять уровней Навыков действия в Электрическом оружие.
+magazinePerkASAutomatics5PointsDesc,Предоставляет вам пять уровней Навыков действия в Автоматическом оружии.
+magazinePerkASElectric5PointsDesc,Предоставляет вам пять уровней Навыков действия в Электрическом оружии.
 magazinePerkASTurret5PointsDesc,Предоставляет вам пять уровней Навыков действия в Турелях.
 magazinePerkASJavelin5PointsDesc,Предоставляет вам пять уровней Навыков действия в Джевелинах (Копья).
-magazinePerkASBrawler5PointsDesc,Предоставляет вам пять уровней Навыков действия в Кулачном оружие.
+magazinePerkASBrawler5PointsDesc,Предоставляет вам пять уровней Навыков действия в Кулачном оружии.
 magazinePerkASSledgehammers5PointsDesc,Предоставляет вам пять уровней Навыков действия в Кувалдах.
 
 
