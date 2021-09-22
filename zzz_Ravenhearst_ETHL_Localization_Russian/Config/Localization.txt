@@ -297,7 +297,7 @@ reqASElectricLevel80,"Требуется уровень электрическо
 reqASElectricLevel90,"Требуется уровень электрического оружия 90"
 reqASElectricLevel100,"Требуется уровень электрического оружия 100"
 perkElectricCraftingRank1Desc,"Криворукий"
-perkElectricCraftingRank1LongDesc,"Разблокирует роботизированные сани."
+perkElectricCraftingRank1LongDesc,"Разблокирует роботизированного Пихалыча."
 perkElectricCraftingRank2Desc,"Подмастерье"
 perkElectricCraftingRank2LongDesc,"Разблокирует оглушающую дубинку."
 perkElectricCraftingRank3Desc,"Мастер"
