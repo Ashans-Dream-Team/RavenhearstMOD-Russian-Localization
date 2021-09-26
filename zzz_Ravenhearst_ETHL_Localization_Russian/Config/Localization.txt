@@ -3461,7 +3461,7 @@ reqASConstructionToolsLevel100,"Требуется уровень строите
 perkConstructionToolCraftingRank1Desc,"Инструменты металлалома (из говна и палок)"
 perkConstructionToolCraftingRank1LongDesc,"Разблокирует  топор из металлолома и молоток."
 perkConstructionToolCraftingRank2Desc,"Железные инструменты"
-perkConstructionToolCraftingRank2LongDesc,"Разблокирует железный топор и гаечный ключ."
+perkConstructionToolCraftingRank2LongDesc,"Разблокирует железный топор и разводной ключ."
 perkConstructionToolCraftingRank3Desc,"Стальные инструменты"
 perkConstructionToolCraftingRank3LongDesc,"Открывает стальной топор и трещотку."
 perkConstructionToolCraftingRank4Desc,"Электроинструменты"
